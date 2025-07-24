@@ -1,4 +1,3 @@
-readme_text = """
 # 📚 BookScraper
 
 **BookScraper** is a simple Python script that scrapes book data (title, price, and stock availability) from [Books to Scrape](http://books.toscrape.com), a website built specifically for practicing web scraping.
