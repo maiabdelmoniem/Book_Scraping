@@ -21,7 +21,4 @@ The script:
 
 ## 🛠️ Requirements
 
-Install the required Python packages:
-
-```bash
-pip install requests beautifulsoup4 pandas
+Install the required Python packages BeautifulSoup, requests and Pandas
